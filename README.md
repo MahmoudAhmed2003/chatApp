@@ -9,5 +9,5 @@ A multi-user chat application built with **Firebase** for real-time communicatio
 
 ## Technologies:
 - **Firebase**: For real-time database and messaging.
-- **Flutter** (or specify any other framework/language if used): For building the user interface and app functionality.
+- **Flutter** : For building the user interface and app functionality.
 
